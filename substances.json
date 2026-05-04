@@ -1,0 +1,47 @@
+[
+  {
+    "name": "methane",
+    "formula": "CH4",
+    "state": "gas",
+    "molecular_weight_kg_mol": 0.01604,
+    "lfl_vol_fraction": 0.05,
+    "gas_density_at_ntp_kg_m3": 0.668,
+    "gamma": 1.30,
+    "equipment_group": "IIA",
+    "temperature_class": "T1"
+  },
+  {
+    "name": "propane",
+    "formula": "C3H8",
+    "state": "gas",
+    "molecular_weight_kg_mol": 0.04410,
+    "lfl_vol_fraction": 0.021,
+    "gas_density_at_ntp_kg_m3": 1.83,
+    "gamma": 1.13,
+    "equipment_group": "IIA",
+    "temperature_class": "T1"
+  },
+  {
+    "name": "methanol",
+    "formula": "CH3OH",
+    "state": "liquid",
+    "molecular_weight_kg_mol": 0.03204,
+    "lfl_vol_fraction": 0.06,
+    "gas_density_at_ntp_kg_m3": 1.33,
+    "gamma": 1.20,
+    "equipment_group": "IIA",
+    "temperature_class": "T2",
+    "vapour_pressure_pa_at_25c": 16900
+  },
+  {
+    "name": "hydrogen",
+    "formula": "H2",
+    "state": "gas",
+    "molecular_weight_kg_mol": 0.002016,
+    "lfl_vol_fraction": 0.04,
+    "gas_density_at_ntp_kg_m3": 0.0838,
+    "gamma": 1.41,
+    "equipment_group": "IIC",
+    "temperature_class": "T1"
+  }
+]
